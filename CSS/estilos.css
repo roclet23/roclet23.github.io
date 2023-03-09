@@ -1,0 +1,27 @@
+
+h1 {
+    display: flex;
+  justify-content: center;
+    color: #E813D8;
+    font-weight: 200;
+    padding: 20px;
+    margin: auto;
+    margin-left: 100px;
+    margin-right: 100px;
+    border: 8px solid red;
+
+}
+
+<body>
+{
+    display: flex;
+  justify-content: left;
+    color: black;
+    font-weight: 200;
+    padding: 20px;
+    margin: auto;
+    margin-left: 100px;
+    margin-right: 100px;
+    border: 8px solid red;
+
+}
